@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_and_express",
+  "version": "0.0.1",
+  "description": "tech degree Unit 6 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxPayne89/nodejs_and_express.git"
+  },
+  "keywords": [
+    "unit",
+    "6",
+    "node",
+    "express"
+  ],
+  "author": "Maximilian Pergl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxPayne89/nodejs_and_express/issues"
+  },
+  "homepage": "https://github.com/MaxPayne89/nodejs_and_express#readme"
+}

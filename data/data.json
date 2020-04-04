@@ -7,7 +7,7 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://maxpayne89.github.io/Random_Quote_Generator/",
             "github_link": "https://github.com/MaxPayne89/Random_Quote_Generator",
-            "image_urls": ["../images/unit1/deadpool.jgp", "../images/unit1/screenshot1.png", "../images/unit1/screenshot2.png"]
+            "image_urls": ["../static/img/unit1/screenshot1.png", "../static/img/unit1/screenshot2.png"]
         },
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://maxpayne89.github.io/list_pagination_and_filtering/",
             "github_link": "https://github.com/MaxPayne89/list_pagination_and_filtering",
-            "image_urls": ["../images/unit2/deadpool.jgp", "../images/unit2/screenshot1.png", "../images/unit2/screenshot2.png"]
+            "image_urls": ["../static/img/unit2/screenshot1.png", "../static/img/unit2/screenshot2.png"]
         },
         {
             "id": "2",
@@ -25,7 +25,7 @@
             "technologies": ["JavaScript","jQuery", "CSS", "HTML"],
             "live_link": "https://maxpayne89.github.io/interactive_form/",
             "github_link": "https://github.com/MaxPayne89/interactive_form",
-            "image_urls": ["../images/unit3/deadpool.jgp", "../images/unit3/screenshot1.png", "../images/unit3/screenshot2.png"]
+            "image_urls": ["../static/img/unit3/screenshot1.png", "../static/img/unit3/screenshot2.png"]
         },
         {
             "id": "3",
@@ -34,16 +34,16 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://maxpayne89.github.io/oop_game_show_app/",
             "github_link": "https://github.com/MaxPayne89/oop_game_show_app",
-            "image_urls": ["../images/unit4/deadpool.jgp", "../images/unit4/screenshot1.png", "../images/unit4/screenshot2.png", "../images/unit4/screenshot3.png", "../images/unit4/screenshot4.png"]
+            "image_urls": ["../static/img/unit4/screenshot1.png", "../static/img/unit4/screenshot2.png", "../static/img/unit4/screenshot3.png", "../static/img/unit4/screenshot4.png"]
         },
         {
             "id": "4",
             "project_name": "Public API Requests",
             "description": "The project of Unit 5 of the tech degree. Displays a page that makes asynchronous requests to retrieve data.",
-            "technologies": ["JavaScript", "Promises", "Asynchronous Programming", "CSS", "HTML"],
+            "technologies": ["JavaScript", "Promises", "CSS", "HTML"],
             "live_link": "https://maxpayne89.github.io/public_api_requests/",
             "github_link": "https://github.com/MaxPayne89/public_api_requests",
-            "image_urls": ["../images/unit5/deadpool.jgp", "../images/unit5/screenshot1.png", "../images/unit5/screenshot2.png"]
+            "image_urls": ["../static/img/unit5/screenshot1.png", "../static/img/unit5/screenshot2.png"]
         }
     ]
 }

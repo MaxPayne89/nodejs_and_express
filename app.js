@@ -12,7 +12,8 @@ app.use(routes)
 app.use((req, res, next) => {
     const err = new Error('Page not found')
     err.status = 404
-    res.status(err.status).send("Something went wrong")
+    console.log(err.stack)
+    console.log(err.message)
 })
 
 app.listen(3000, () => {
